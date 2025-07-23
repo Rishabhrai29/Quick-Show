@@ -1,4 +1,6 @@
-🎬 Quick Show — Frontend
+QUICK SHOW - FRONTEND 
+
+
 Frontend for Quick Show, built with React.js and styled using Tailwind CSS.
 A modern, responsive web interface for showcasing and discovering shows quickly.
 
