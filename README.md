@@ -1,12 +1,27 @@
-# React + Vite
+🎬 Quick Show — Frontend
+Frontend for Quick Show, built with React.js and styled using Tailwind CSS.
+A modern, responsive web interface for showcasing and discovering shows quickly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tech Stack
+⚛️ React.js
 
-Currently, two official plugins are available:
+🎨 Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧰 Vite / Create React App (whichever you used — update accordingly)
 
-## Expanding the ESLint configuration
+📸 Demo
+<img width="1763" height="992" alt="image" src="https://github.com/user-attachments/assets/baa8c2cb-6264-4774-9433-2a267001d1bc" />
+<img width="1836" height="1013" alt="image" src="https://github.com/user-attachments/assets/8cd9483c-4abd-4607-a1df-eaa6650fec07" />
+<img width="1822" height="1017" alt="image" src="https://github.com/user-attachments/assets/40e29d93-f61a-4540-b109-b63b7ae255cd" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+✨ Features
+✅ Fully responsive layout
+✅ Modern UI with Tailwind utility classes
+✅ Components-based architecture
+✅ Fast development and build
+✅ Ready to integrate with backend APIs
+
